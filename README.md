@@ -9,7 +9,7 @@
 3. Choose your SD card in Storage and press Write
 4. Insert the card into your PI, connect it to HDMI and USB keyboard
 
-It's also possible through SSH without needing mini-HDMI adapter and USB OTG cable, however you'll have to find instructions online
+    It's also possible through SSH without needing mini-HDMI adapter and USB OTG cable, however you'll have to find instructions online
 
 5. Boot your Pi and let it expand the filesystem
 6. When you're done and in the terminal, first type "sudo raspi-config"
