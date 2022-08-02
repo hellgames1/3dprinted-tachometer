@@ -25,8 +25,11 @@ It's also possible through SSH without needing mini-HDMI adapter and USB OTG cab
 18. Add these 3 lines and make sure to include the & symbols
 
     sudo pigpiod
+    
     sudo python3 /home/pi/bshut.py &
+    
     sudo python3 /home/pi/mai2n.py &
+    
 
 19. Save and exit again with Ctrl+X
 20. Type "sudo shutdown 0" to shut down the Pi
