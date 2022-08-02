@@ -57,26 +57,6 @@ https://www.youtube.com/watch?v=_IPluKo3RjY
 
 How to set up Dirt Rally 2.0
 1. Go to Documents\My Games\DiRT Rally 2.0\hardwaresettings\
-2. Edit hardware_settings_config.xml
-3. I'm not sure if all of this is needed, but this is how it looks like in my file
-
-    ....
-    
-    </audio_card>
-    
-    <motion_platform>
-    
-        <dbox enabled="true" />
-    
-        <udp enabled="true" extradata="3" ip="192.168.0.108" port="30500" delay="5" />
-    
-        <custom_udp enabled="false" filename="packet_data.xml" ip="127.0.0.1" port="20777" delay="10" />
-    
-        <fanatec enabled="true" pedalVibrationScale="1.0" wheelVibrationScale="1.0" ledTrueForGearsFalseForSpeed="true" />
-    
-    </motion_platform>
-    
-    
-
+2. Edit hardware_settings_config.xml, make sure it's set like in the picture (6-dirtrally2.png)
 Works best with delay at 5. The tachometer will display the IP address when it boots.
 Check this video out as well https://www.youtube.com/watch?v=Hg7oHDs2x3s
