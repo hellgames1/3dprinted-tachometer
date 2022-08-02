@@ -58,5 +58,6 @@ https://www.youtube.com/watch?v=_IPluKo3RjY
 How to set up Dirt Rally 2.0
 1. Go to Documents\My Games\DiRT Rally 2.0\hardwaresettings\
 2. Edit hardware_settings_config.xml, make sure it's set like in the picture (6-dirtrally2.png)
+
 Works best with delay at 5. The tachometer will display the IP address when it boots.
 Check this video out as well https://www.youtube.com/watch?v=Hg7oHDs2x3s
