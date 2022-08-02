@@ -1,6 +1,9 @@
 # 3dprinted-tachometer
  scripts for tachometer design on thingiverse
+ 
  also pin wiring reference
+ 
+ Original post on thingiverse: https://www.thingiverse.com/thing:5447004
  
  **Technical instructions:**
  
